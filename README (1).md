@@ -30,6 +30,10 @@ The Liver Cirrhosis Kaggle Challenge is a machine learning competition focused o
 Data visualization before any preprocessing
 ![Alt Text](https://github.com/anishg2001/DATA3402.Spring.2024/blob/main/inintial%20data%20boxplots.png)
 ![Alt Text](https://github.com/anishg2001/DATA3402.Spring.2024/blob/main/boxplot%20of%20cirrhosis.png)
+Data Visualization after Processing
+![Alt Text](https://github.com/anishg2001/DATA3402.Spring.2024/blob/main/data%20viz%20after.png)
+Feature Engineering
+![Alt Text](https://github.com/anishg2001/DATA3402.Spring.2024/blob/main/red.png)
 
 ### Problem Formulation
 
