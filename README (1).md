@@ -43,15 +43,6 @@ Feature Engineering
     - I tried several different models: Random Forest, KNN, SVM, and XGBoost.
     - I used these models because I wanted to see which ones would run better and have better metrics.
 
-### Training
-
-- Describe the training:
-  - How you trained: software and hardwar
-  - How did training take.
-  - Training curves (loss vs epoch for test/train).
-  - How did you decide to stop training.
-  - Any difficulties? How did you resolve them?
-
 ### Performance Comparison
 
 - After completing my, the project I did not see much change in the visualization, I had completed before and after.
